@@ -1,1 +1,1 @@
-path name of the current working directory
+Display long format current directory
